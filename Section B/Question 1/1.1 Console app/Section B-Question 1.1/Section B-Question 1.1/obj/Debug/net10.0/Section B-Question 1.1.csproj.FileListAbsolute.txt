@@ -1,0 +1,14 @@
+C:\Users\rache\Desktop\SDT621-SA Rachel Cerff 20240037\Section B\Question 1\1.1 Console app\Section B-Question 1.1\Section B-Question 1.1\bin\Debug\net10.0\Section B-Question 1.1.exe
+C:\Users\rache\Desktop\SDT621-SA Rachel Cerff 20240037\Section B\Question 1\1.1 Console app\Section B-Question 1.1\Section B-Question 1.1\bin\Debug\net10.0\Section B-Question 1.1.deps.json
+C:\Users\rache\Desktop\SDT621-SA Rachel Cerff 20240037\Section B\Question 1\1.1 Console app\Section B-Question 1.1\Section B-Question 1.1\bin\Debug\net10.0\Section B-Question 1.1.runtimeconfig.json
+C:\Users\rache\Desktop\SDT621-SA Rachel Cerff 20240037\Section B\Question 1\1.1 Console app\Section B-Question 1.1\Section B-Question 1.1\bin\Debug\net10.0\Section B-Question 1.1.dll
+C:\Users\rache\Desktop\SDT621-SA Rachel Cerff 20240037\Section B\Question 1\1.1 Console app\Section B-Question 1.1\Section B-Question 1.1\bin\Debug\net10.0\Section B-Question 1.1.pdb
+C:\Users\rache\Desktop\SDT621-SA Rachel Cerff 20240037\Section B\Question 1\1.1 Console app\Section B-Question 1.1\Section B-Question 1.1\obj\Debug\net10.0\Section B-Question 1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rache\Desktop\SDT621-SA Rachel Cerff 20240037\Section B\Question 1\1.1 Console app\Section B-Question 1.1\Section B-Question 1.1\obj\Debug\net10.0\Section B-Question 1.1.AssemblyInfoInputs.cache
+C:\Users\rache\Desktop\SDT621-SA Rachel Cerff 20240037\Section B\Question 1\1.1 Console app\Section B-Question 1.1\Section B-Question 1.1\obj\Debug\net10.0\Section B-Question 1.1.AssemblyInfo.cs
+C:\Users\rache\Desktop\SDT621-SA Rachel Cerff 20240037\Section B\Question 1\1.1 Console app\Section B-Question 1.1\Section B-Question 1.1\obj\Debug\net10.0\Section B-Question 1.1.csproj.CoreCompileInputs.cache
+C:\Users\rache\Desktop\SDT621-SA Rachel Cerff 20240037\Section B\Question 1\1.1 Console app\Section B-Question 1.1\Section B-Question 1.1\obj\Debug\net10.0\Section B-Question 1.1.dll
+C:\Users\rache\Desktop\SDT621-SA Rachel Cerff 20240037\Section B\Question 1\1.1 Console app\Section B-Question 1.1\Section B-Question 1.1\obj\Debug\net10.0\refint\Section B-Question 1.1.dll
+C:\Users\rache\Desktop\SDT621-SA Rachel Cerff 20240037\Section B\Question 1\1.1 Console app\Section B-Question 1.1\Section B-Question 1.1\obj\Debug\net10.0\Section B-Question 1.1.pdb
+C:\Users\rache\Desktop\SDT621-SA Rachel Cerff 20240037\Section B\Question 1\1.1 Console app\Section B-Question 1.1\Section B-Question 1.1\obj\Debug\net10.0\Section B-Question 1.1.genruntimeconfig.cache
+C:\Users\rache\Desktop\SDT621-SA Rachel Cerff 20240037\Section B\Question 1\1.1 Console app\Section B-Question 1.1\Section B-Question 1.1\obj\Debug\net10.0\ref\Section B-Question 1.1.dll
